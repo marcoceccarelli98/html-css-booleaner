@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.margin_top30px{
+    margin-top: 30px;
+}
+
 /* HEADER */
 header {
     background-repeat: repeat;
@@ -33,7 +37,6 @@ p {
 }
 
 ul {
-    margin-top: 30px;
     margin-left: 20px;
 }
 
@@ -43,8 +46,8 @@ span {
 
 /* TABLE */
 table {
-    margin-top: 30px;
     border-collapse: collapse;
+    text-align: left;
 }
 
 thead {
@@ -58,7 +61,6 @@ thead {
 
 .larger {
     width: 200px;
-    text-align: left;
 }
 
 /* FOOTER */
@@ -72,7 +74,7 @@ footer {
     width: 270px;
     background-repeat: no-repeat;
     color: #fff;
-    font-size: 23px;
+    font-size: 22px;
 }
 
 .bg_monitor {
