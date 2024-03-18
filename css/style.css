@@ -38,7 +38,22 @@ ul {
     margin-left: 20px;
 }
 
-thead {
-    background-color: #20A9E5;
+/* TABLE */
+table {
+    margin-top: 30px;
+    border-collapse: collapse;
 }
 
+thead {
+    background-color: #20A9E5;
+    color: #fff;
+}
+
+.cyan {
+    background-color: #B1E5F2;
+}
+
+.larger {
+    width: 200px;
+    text-align: left;
+}
