@@ -19,7 +19,6 @@ header {
 }
 
 /* MAIN */
-
 h1{
     margin-top: 10px;
     font-size: 50px;
@@ -60,4 +59,32 @@ thead {
 .larger {
     width: 200px;
     text-align: left;
+}
+
+/* FOOTER */
+
+footer {
+    margin-top: 30px;
+}
+
+.img {
+    height: 220px;
+    width: 270px;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 23px;
+}
+
+.bg_monitor {
+    margin-top: 10px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.bg_graph {
+    background-image: url(../img/graph.jpg);
+}
+
+h4 {
+    padding-top: 10px;
+    padding-left: 10px;
 }
