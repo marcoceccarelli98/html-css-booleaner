@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
 header {
     background-repeat: repeat;
     background-color: #4EA0FF;
@@ -15,4 +16,11 @@ header {
     margin-left: 20px;
     margin-top: 80px;
     width: 300px;
+}
+
+/* MAIN */
+
+h1{
+    margin-top: 10px;
+    font-size: 50px;
 }
