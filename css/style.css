@@ -23,13 +23,18 @@ header {
 }
 
 /* MAIN */
-h1{
+h1 {
     margin-top: 10px;
     font-size: 50px;
 }
 
 h2,h3 {
     color: gray;
+}
+
+a {
+    text-decoration:none;
+    color: #20A9E5;
 }
 
 p {
