@@ -38,6 +38,10 @@ ul {
     margin-left: 20px;
 }
 
+span {
+    background-color: yellow;
+}
+
 /* TABLE */
 table {
     margin-top: 30px;
